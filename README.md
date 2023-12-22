@@ -1,6 +1,3 @@
-<!-- # 🗳️ Vote -->
-<img alt="workshop/vote" width="1412" src="../.resources/vote.png">
-
 ## Summary
 
 `vote.leo` is a general vote program.
